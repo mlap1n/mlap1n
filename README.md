@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=28&duration=3000&pause=1000&color=3FF728&center=true&vCenter=true&multiline=true&width=435&height=90&lines=Welcome+to+my+GitHub+Profile!;I'm+Machine+Learning+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=28&duration=3000&pause=1000&color=3FF728&center=true&vCenter=true&multiline=true&width=435&height=90&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
