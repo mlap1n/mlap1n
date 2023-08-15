@@ -10,13 +10,13 @@
 
 <p style="display: inline-block;" align="left">
   	<kbd>
-    	<img title="python" width="30px" src="" /> 
+    	<img title="python" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/Python-Dark.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="c++" width="30px" src="" /> 
+    	<img title="c++" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/CPP.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="rust" width="30px" src="" /> 
+    	<img title="rust" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/Rust.svg" /> 
   	</kbd>
 </p>
 
@@ -24,16 +24,16 @@
 
 <p style="display: inline-block;" align="left">
   	<kbd>
-    	<img title="mysql" width="30px" src="" /> 
+    	<img title="mysql" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/MySQL-Dark.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="postgres" width="30px" src="" /> 
+    	<img title="postgres" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/PostgreSQL-Dark.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="mongodb" width="30px" src="" /> 
+    	<img title="mongodb" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/MongoDB.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="redis" width="30px" src="" /> 
+    	<img title="redis" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/Redis-Dark.svg" /> 
   	</kbd>
 </p>
 
@@ -41,10 +41,10 @@
 
 <p style="display: inline-block;" align="left">
   	<kbd>
-    	<img title="tensorflow" width="30px" src="" /> 
+    	<img title="tensorflow" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/TensorFlow-Dark.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="pytorch" width="30px" src="" /> 
+    	<img title="pytorch" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/PyTorch-Dark.svg" /> 
   	</kbd>
 </p>
 
@@ -52,13 +52,13 @@
 
 <p style="display: inline-block;" align="left">
   	<kbd>
-    	<img title="kubernetes" width="30px" src="" /> 
+    	<img title="kubernetes" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/Kubernetes.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="docker" width="30px" src="" /> 
+    	<img title="docker" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/Docker.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="bash" width="30px" src="" /> 
+    	<img title="bash" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/Bash-Dark.svg" /> 
   	</kbd>
 </p>
 
@@ -66,19 +66,19 @@
 
 <p style="display: inline-block;" align="left">
   	<kbd>
-    	<img title="vim" width="30px" src="" /> 
+    	<img title="vim" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/VIM-Dark.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="vscode" width="30px" src="" /> 
+    	<img title="vscode" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/VSCode-Dark.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="matlab" width="30px" src="" /> 
+    	<img title="matlab" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/Matlab-Dark.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="linux" width="30px" src="" /> 
+    	<img title="linux" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/Linux-Dark.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="latex" width="30px" src="" /> 
+    	<img title="latex" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/LaTeX-Dark.svg" /> 
   	</kbd>
 </p>
 
