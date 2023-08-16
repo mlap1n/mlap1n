@@ -30,9 +30,6 @@
     	<img title="postgres" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/PostgreSQL-Dark.svg" /> 
   	</kbd>
 	<kbd>
-    	<img title="mongodb" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/MongoDB.svg" /> 
-  	</kbd>
-	<kbd>
     	<img title="redis" width="30px" src="https://github.com/mlap1n/mlap1n/blob/main/icons/Redis-Dark.svg" /> 
   	</kbd>
 </p>
