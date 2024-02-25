@@ -3,6 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=28&duration=3000&pause=1000&color=3FF728&center=false&vCenter=true&multiline=true&width=440&height=90&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+- 🔭 I’m currently working on Machine Learning and Data Science projects
+- 🌱 I’m currently learning Advanced Deep Learning Techniques
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with Natural Language Processing
+- 💬 Ask me about anything tech-related, I'm happy to help
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
